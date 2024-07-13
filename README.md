@@ -7,7 +7,7 @@
 
 #### Anotações
 * [Anotações](/MD/ANOTAÇÕES.md)
-* [Variáveis](/MD/ANOTAÇÕES.md)
+* [Variáveis](/MD/VARIÁVEIS.MD)
 
 #### JS
 * [Exemplos](/JS/EXEMPLOS.js)
