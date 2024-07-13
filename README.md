@@ -1,4 +1,6 @@
-## Índice
+## Variáveis e Operadores JS
+
+### Índice
 
 #### PDF
 * [Tipos de dados](/PDF/TIPOS%20DE%20DADOS.pdf)
