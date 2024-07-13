@@ -1,30 +1,9 @@
 ## ÍNDICE
 
 * [Anotações](/MD/ANOTAÇÕES.md)
+* [Tipos de dados](/PDF/TIPOS%20DE%20DADOS.pdf)
 * [Operadores](PDF/OPERADORES.pdf)
+* [Variáveis](/PDF/VARIÁVEIS.pdf)
 
-## OBJETOS
-Permitem armazenar e organizar dados de maneira mais complexa do que simples valores primitivos, como números e strings. Eles são compostos por pares chave-valor, onde cada chave (também chamada de propriedade) é uma string única que identifica o valor correspondente.
-```
-var pessoa = { 
-    nome: 'André', 
-    idade: 28,
-} 
-console.log(pessoa.nome, pessoa.idade);
-```
-
-## THIS
-> Reutilizar parâmetro fora da função função
-```
-var quadrado = {
-    lado: 4,
-    area: function () {
-        return this.lado *this.lado;
-    },
-    perimetro: function (){
-        return this.lado* this.lado;
-    }
-}
-
-console.log(quadrado.perimetro(8));
-```
+### Aviso de Uso de Código
+> Este código é disponibilizado exclusivamente para fins de estudo e aprendizado. A reprodução total ou parcial deste código, sem autorização prévia, é expressamente proibida. A utilização deste código em projetos comerciais, distribuição não autorizada ou qualquer outro uso que não seja educativo pode resultar em sanções legais. Ao utilizar este código, você concorda em respeitar os termos de uso e a propriedade intelectual do autor.
