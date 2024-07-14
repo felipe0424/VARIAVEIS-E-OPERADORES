@@ -20,33 +20,57 @@
 
 ## 1. VARIÁVEIS
 > VAR (Numeric variable of integer type);
+```rust
     var A = 10;
+```
 > CONST (Constant value, that is, it cannot be changed, it always remains the same);
+```rust
     const A = 20;
+```
 > LET (Numeric variable comp fractions numbers);
+```rust
     let A = 30;
+```
 > STRING (Text defined in simgle or double quotes);
+```rust
     console.log("Hello World");
+```
 > ARRAY (Storage one set of things);
+```rust
     let A = [5, 10, 15, 20, 25];
+```
 > BOOLEAN (True and false);
+```rust
     const A = ("4 é par"); True;
+```
 
 ## 2. OPERADORES
 > SOMA [+] (Soma os valores);
+```rust
     console.log(10 + 20);
+```
 > SUBTRAÇÃO [-] (Subitrai os valores);
+```rust
     console.log(10 - 5);
+```
 > MULTIPLICAÇÃO [*] (Multiplica os valores);
+```rust
     console.log(10  2);
+```
 > DIVISÃO [/] (Divisão de valores);
+```rust
     console.log(10 / 2);
+```
 > MÓDULO [%] (Resto da divisão);
+```rust
     console.log(40 / 3);
+```
 > MATH.[operador()]
+```rust
 - [random()] - Valor aleatório
 - [round()] - Arredondar valor
 - [sqrt()] - Raiz quadrada
+```
 
 ## Contato
 Para saber mais sobre meus trabalhos, entre em contato comigo através do <a href="https://www.linkedin.com/in/jfeliperamos/">LinkedIn</a> ou visite meu <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html">GitHub.</a> 
