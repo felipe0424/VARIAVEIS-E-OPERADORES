@@ -19,7 +19,7 @@
 </div>
 
 ## 1. VARIÁVEIS
-> VAR (Numeric variable of integer type);
+    1. VAR (Numeric variable of integer type);
 ```rust
     var A = 10;
 ```
