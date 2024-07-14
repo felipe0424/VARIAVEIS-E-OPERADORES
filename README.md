@@ -9,11 +9,17 @@
     * [1.5. Array](#15-array-storage-one-set-of-things)
     * [1.6. Boolean](#16-boolean-true-and-false)
 * [2. Operadores](#2-operadores)
-* [3. Tipos de dados](/PDF/TIPOS%20DE%20DADOS.pdf)
-* [4. Operadores](/PDF/OPERADORES.pdf)
-* [5. Variáveis](/PDF/VARIÁVEIS.pdf)
-* [6. Anotações](/MD/ANOTAÇÕES.md)
-* [7. Variáveis](/MD/VARIÁVEIS.MD)
+    * [2.1. Soma](#21-soma--soma-os-valores)
+    * [2.2. Subtração](#22-subtração---subitrai-os-valores)
+    * [2.3. Multiplicação](#23-multiplicação--multiplica-os-valores)
+    * [2.4. Divisão](#24-divisão--divisão-de-valores)
+    * [2.5. Módulo *(Resto da Divisão)*](#25-módulo--resto-da-divisão)
+    * [2.6. Math](#26-mathoperador)
+* [3. Tipos de dados](/src/PDF/TIPOS%20DE%20DADOS.pdf)
+* [4. Operadores](/src/PDF/OPERADORES.pdf)
+* [5. Variáveis](/src/PDF/VARIÁVEIS.pdf)
+* [6. Anotações](/src/MD/ANOTAÇÕES.md)
+* [7. Variáveis](/src/MD/VARIÁVEIS.MD)
 
 ## Ferramentas utilizadas no desenvolvimento
 <div align="auto">
@@ -53,27 +59,27 @@
 ```
 
 ## 2. OPERADORES
-> SOMA [+] (Soma os valores);
+* ### 2.1. SOMA [+] (Soma os valores);
 ```rust
     console.log(10 + 20);
 ```
-> SUBTRAÇÃO [-] (Subitrai os valores);
+* ### 2.2. SUBTRAÇÃO [-] (Subitrai os valores);
 ```rust
     console.log(10 - 5);
 ```
-> MULTIPLICAÇÃO [*] (Multiplica os valores);
+* ### 2.3. MULTIPLICAÇÃO [*] (Multiplica os valores);
 ```rust
     console.log(10  2);
 ```
-> DIVISÃO [/] (Divisão de valores);
+* ### 2.4. DIVISÃO [/] (Divisão de valores);
 ```rust
     console.log(10 / 2);
 ```
-> MÓDULO [%] (Resto da divisão);
+* ### 2.5. MÓDULO [%] (Resto da divisão);
 ```rust
     console.log(40 / 3);
 ```
-> MATH.[operador()]
+* ### 2.6. MATH.[operador()]
 ```rust
 - [random()] - Valor aleatório
 - [round()] - Arredondar valor
