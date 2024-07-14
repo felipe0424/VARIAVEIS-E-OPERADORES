@@ -2,6 +2,12 @@
 
 ## Índice
 * [1. Variáveis](#1-variáveis)
+    * [1.1. Var](#11-var-numeric-variable-of-integer-type)
+    * [1.2. Const](#12-const-constant-value-that-is-it-cannot-be-changed-it-always-remains-the-same)
+    * [1.3. Let](#13-let-numeric-variable-comp-fractions-numbers)
+    * [1.4. String](#14-string-text-defined-in-simgle-or-double-quotes)
+    * [1.5. Array](#15-array-storage-one-set-of-things)
+    * [1.6. Boolean](#16-boolean-true-and-false)
 * [2. Operadores](#2-operadores)
 * [3. Tipos de dados](/PDF/TIPOS%20DE%20DADOS.pdf)
 * [4. Operadores](/PDF/OPERADORES.pdf)
@@ -19,27 +25,29 @@
 </div>
 
 ## 1. VARIÁVEIS
-    1. VAR (Numeric variable of integer type);
+
+* ### 1.1. VAR (Numeric variable of integer type);
+
 ```rust
     var A = 10;
 ```
-> CONST (Constant value, that is, it cannot be changed, it always remains the same);
+* ### 1.2. CONST (Constant value, that is, it cannot be changed, it always remains the same);
 ```rust
     const A = 20;
 ```
-> LET (Numeric variable comp fractions numbers);
+* ### 1.3. LET (Numeric variable comp fractions numbers);
 ```rust
     let A = 30;
 ```
-> STRING (Text defined in simgle or double quotes);
+* ### 1.4. STRING (Text defined in simgle or double quotes);
 ```rust
     console.log("Hello World");
 ```
-> ARRAY (Storage one set of things);
+* ### 1.5. ARRAY (Storage one set of things);
 ```rust
     let A = [5, 10, 15, 20, 25];
 ```
-> BOOLEAN (True and false);
+* ### 1.6. BOOLEAN (True and false);
 ```rust
     const A = ("4 é par"); True;
 ```
