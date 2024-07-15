@@ -1,7 +1,8 @@
 <div align="center">
 <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/3804386a-094d-42de-8a5d-f4dfb033ffba" alt="js" width="70"></a>
 
-# **Variáveis e Operadores JavaScript**
+# **JavaScript**
+### `Variáveis e Operadores JavaScript`
 </div>
 
 ## :bookmark_tabs:	Índice
