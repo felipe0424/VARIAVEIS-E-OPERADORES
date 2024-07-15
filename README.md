@@ -35,63 +35,62 @@
 
 ## :books:	Conteúdo
 
-## 1. VARIÁVEIS
-
-* ### 1.1. VAR (Numeric variable of integer type);
+## 1. Variáveis
+* ### 1.1. Var (Numeric variable of integer type);
 
 ```rust
     var A = 10;
 ```
-* ### 1.2. CONST (Constant value, that is, it cannot be changed, it always remains the same);
+* ### 1.2. Const (Constant value, that is, it cannot be changed, it always remains the same);
 ```rust
     const A = 20;
 ```
-* ### 1.3. LET (Numeric variable comp fractions numbers);
+* ### 1.3. Let (Numeric variable comp fractions numbers);
 ```rust
     let A = 30;
 ```
-* ### 1.4. STRING (Text defined in simgle or double quotes);
+* ### 1.4. String (Text defined in simgle or double quotes);
 ```rust
     console.log("Hello World");
 ```
-* ### 1.5. ARRAY (Storage one set of things);
+* ### 1.5. Array (Storage one set of things);
 ```rust
     let A = [5, 10, 15, 20, 25];
 ```
-* ### 1.6. BOOLEAN (True and false);
+* ### 1.6. Boolean (True and false);
 ```rust
     const A = ("4 é par"); True;
 ```
 
-## 2. OPERADORES
-* ### 2.1. SOMA [+] (Soma os valores);
+## 2. Operadores
+* ### 2.1. Soma [+] (Soma os valores);
 ```rust
     console.log(10 + 20);
 ```
-* ### 2.2. SUBTRAÇÃO [-] (Subitrai os valores);
+* ### 2.2. Subtração [-] (Subitrai os valores);
 ```rust
     console.log(10 - 5);
 ```
-* ### 2.3. MULTIPLICAÇÃO [*] (Multiplica os valores);
+* ### 2.3. Multiplicação [*] (Multiplica os valores);
 ```rust
     console.log(10  2);
 ```
-* ### 2.4. DIVISÃO [/] (Divisão de valores);
+* ### 2.4. Divisão [/] (Divisão de valores);
 ```rust
     console.log(10 / 2);
 ```
-* ### 2.5. MÓDULO [%] (Resto da divisão);
+* ### 2.5. Módulo [%] (Resto da divisão);
 ```rust
     console.log(40 / 3);
 ```
-* ### 2.6. MATH.[operador()]
-```rust
+* ### 2.6. Math.[operador()]
+```r
 - [random()] - Valor aleatório
 - [round()] - Arredondar valor
 - [sqrt()] - Raiz quadrada
 ```
 
-## Contato
+## :telephone_receiver:	Contato
 Para saber mais sobre meus trabalhos, entre em contato comigo através do <a href="https://www.linkedin.com/in/jfeliperamos/">LinkedIn</a> ou visite meu <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html">GitHub.</a> 
 
 <div align=center>
