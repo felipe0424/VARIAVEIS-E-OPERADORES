@@ -1,6 +1,10 @@
-# Variáveis e Operadores JavaScript
+<div align="center">
+<a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/3804386a-094d-42de-8a5d-f4dfb033ffba" alt="js" width="70"></a>
 
-## Índice
+# **Variáveis e Operadores JavaScript**
+</div>
+
+## :bookmark_tabs:	Índice
 * [1. Variáveis](#1-variáveis)
     * [1.1. Var](#11-var-numeric-variable-of-integer-type)
     * [1.2. Const](#12-const-constant-value-that-is-it-cannot-be-changed-it-always-remains-the-same)
@@ -21,14 +25,15 @@
 * [6. Anotações](/src/MD/ANOTAÇÕES.md)
 * [7. Variáveis](/src/MD/VARIÁVEIS.MD)
 
-## Ferramentas utilizadas no desenvolvimento
+## :computer:	Ferramentas e linguagens utilizadas no desenvolvimento
 <div align="auto">
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/3804386a-094d-42de-8a5d-f4dfb033ffba" alt="js" width="50"></a>
-    <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/99565e92-5ce7-4298-ac67-95801f113f9f" alt="ts" width="50"></a>
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/64486d67-8973-4b62-bdfc-212cf9f16709" alt="md" width="50"></a>
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/d3813ef4-1409-40c9-9bfb-6e988f79b2c8" alt="Git" width="50"></a>
     <a href="https://felipe0424.github.io/PortfolioDev/HTML/index.html"><img src="https://github.com/user-attachments/assets/b03adba8-e155-4555-8737-2afaf449620d" alt="Node" width="50"></a>
 </div>
+
+## :books:	Conteúdo
 
 ## 1. VARIÁVEIS
 
